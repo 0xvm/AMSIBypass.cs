@@ -1,7 +1,8 @@
 # AMSIBypass.cs
 yet another amsi.dll
 
-This is an AmsiBypass.cs that you can drop in any project that uses @Cn33liz AMSI dll hijacking code as documented in [1].
+This is an AmsiBypass.cs you can drop in any project that uses @Cn33liz AMSI dll hijacking code as documented in [1].
+
 The produced dll is functionally the same, with a bit of binary editing to throw off Windows Defender.
 
 For example in these two awesome projects: 
